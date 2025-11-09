@@ -1,4 +1,4 @@
-"""
+""" 
 Shopping cart module - manages products collection
 """
 from typing import List
